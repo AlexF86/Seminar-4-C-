@@ -23,7 +23,6 @@ void СheckNumber2 (int  series){
       }
         else {
           Console.WriteLine($"Ошибка ввода");
-
       }
 }
 int[] ArrayOfNumbers(string seriesNew){ 
